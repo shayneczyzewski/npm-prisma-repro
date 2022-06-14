@@ -1,0 +1,21 @@
+{
+  "name": "16.15.1-failure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "^16.0.0",
+    "npm": "^8.0.0"
+  },
+  "dependencies": {
+    "@prisma/client": "3.9.1"
+  },
+  "devDependencies": {
+    "prisma": "3.9.1"
+  }
+}
